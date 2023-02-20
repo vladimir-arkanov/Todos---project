@@ -1,8 +1,8 @@
-Hello, this is my pet project TODOS list
+# Hello, this is my pet project TODOS list
 [DEMO LINK](https://vladimir-arkanov.github.io/Todos---project/)
  
 
-Description
+## Description
 APP for managing your ToDos. Enter your email and name for registration and you will be able to manage your ToDos at anytime from different devices. In this APP you are able to:
 
 add new ToDo;
@@ -13,7 +13,7 @@ toggle all statuses;
 clear all completed ToDos;
 
  
- Technologies 
+ ## Technologies 
  During perform this project, i had used such technologies as: 
  - react context, 
  - hooks for function optimization and to have abiliity use functional components, 
@@ -22,7 +22,7 @@ clear all completed ToDos;
  I used fetch and async / await in order to send, updated and delete elements from API. hopefully you will be satisfy after checking my TODOS list 
  
  
- How to work with. Steps:
+ ## How to work with. Steps:
 Download or clone repository. git clone https://github.com/Oleksandr-Filo/React_ToDo_App.git.
 Open project folder with code editor (VS Code, WebStorm, other).
 Run npm install in terminal.
