@@ -15,7 +15,9 @@ clear all completed ToDos;
  
  Technologies 
  During perform this project, i had used such technologies as: 
- - react context, 
+ - react context <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" align="center" alt="react" width="40" height="40"/> 
+  </a>, 
  - hooks for function optimization and to have abiliity use functional components, 
  - react memo for components optimization. Also, you will find my usage of typescript instead of ProtoType. 
  
